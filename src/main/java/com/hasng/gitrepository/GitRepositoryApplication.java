@@ -13,6 +13,7 @@ public class GitRepositoryApplication {
         System.out.println("第一个");
         System.out.println("分支上操作");
         System.out.println("怎么找不到了");
+        System.out.println("分支第二次提交");
     }
 
 }
