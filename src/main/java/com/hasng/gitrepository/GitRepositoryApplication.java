@@ -11,6 +11,7 @@ public class GitRepositoryApplication {
     }
     public void test(){
         System.out.println("第一个");
+        System.out.println("分支上操作");
     }
 
 }
